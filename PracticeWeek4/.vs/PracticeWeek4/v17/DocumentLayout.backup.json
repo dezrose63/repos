@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\desir\\source\\repos\\PracticeWeek4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB412F3B-12AB-4C3F-84CB-EBDDE8D5E3E7}|PracticeWeek4.vcxproj|C:\\Users\\desir\\source\\repos\\PracticeWeek4\\starline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB412F3B-12AB-4C3F-84CB-EBDDE8D5E3E7}|PracticeWeek4.vcxproj|solutionrelative:starline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "0633f1c6-cf34-403d-b5f6-1104d58dd765",
+        "Display": 0,
+        "X": 48,
+        "Y": 86,
+        "Width": 1664,
+        "Height": 774,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "starline.cpp",
+              "DocumentMoniker": "C:\\Users\\desir\\source\\repos\\PracticeWeek4\\starline.cpp",
+              "RelativeDocumentMoniker": "starline.cpp",
+              "ToolTip": "C:\\Users\\desir\\source\\repos\\PracticeWeek4\\starline.cpp",
+              "RelativeToolTip": "starline.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T21:28:50.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
